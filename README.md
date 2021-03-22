@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeonJi%20Lee&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&height=207&section=header&text=YeonJi%20Lee&fontSize=70&fontAlignY=35&animation=fadeIn)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
@@ -18,6 +18,8 @@ I'm studying programming these days. 💻💖🌱
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&reversal=true)
 
 <!--
 **yeonjii/yeonjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
