@@ -19,6 +19,11 @@ I'm studying programming these days. 💻💖🌱
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
+<br><br>
+<p align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjii&count_bg=%23CE79FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
 <!--
